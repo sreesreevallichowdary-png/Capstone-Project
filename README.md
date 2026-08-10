@@ -1,4 +1,4 @@
-# Zepto Data, Analytics, and Support Assistant Project
+# Data, Analytics, and Support Assistant Project
 
 ## Overview
 
